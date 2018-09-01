@@ -1,10 +1,9 @@
 
 //
 //  ViewController.swift
-
 //
-//  Created by Angela Yu on 29/08/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Damitha Ranasinghe on 8/28/18.
+//  Copyright © 2018 Damitha Ranasinghe. All rights reserved.
 //
 
 import UIKit

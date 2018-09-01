@@ -1,8 +1,8 @@
 //
 //  LogInViewController.swift
-
 //  This is the view controller where users login
-
+//  Created by Damitha Ranasinghe on 8/28/18.
+//  Copyright © 2018 Damitha Ranasinghe. All rights reserved.
 
 import UIKit
 import Firebase

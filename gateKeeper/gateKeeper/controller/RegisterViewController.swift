@@ -1,9 +1,10 @@
 //
 //  RegisterViewController.swift
-
 //
 //  This is the View Controller which registers new users with Firebase
 //
+//  Created by Damitha Ranasinghe on 8/28/18.
+//  Copyright © 2018 Damitha Ranasinghe. All rights reserved.
 
 import UIKit
 import Firebase
