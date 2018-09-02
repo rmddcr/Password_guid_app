@@ -1,0 +1,6 @@
+framework module Pods_gateKeeper {
+  umbrella header "Pods-gateKeeper-umbrella.h"
+
+  export *
+  module * { export * }
+}
